@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "app_lockability_desc",
+      "value": "description"
+    },
+    {
+      "name": "app_lockability_label",
+      "value": "label"
+    },
+    {
+      "name": "AppLockAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "AppLockAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "App_lockEmbeddedUIExtAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "App_lockEmbeddedUIExtAbility_label",
+      "value": "label"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@explore-in-hmos/app_lock",
+  "version": "1.0.0",
+  "description": "A HarmonyOS library for application lock functionality using biometric authentication (Face, Fingerprint, PIN).",
+  "main": "Index.ets",
+  "author": {"name": "Explore In HMOS", "email": "hmos-dtse@proton.me"},
+  "repository": "https://github.com/Explore-In-HMOS/library-app-lock",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": ["App Lock", "Biometric", "Authentication", "Face ID", "Fingerprint", "PIN"]
+}

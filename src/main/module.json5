@@ -1,0 +1,16 @@
+{
+  "module": {
+    "name": "app_lock",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "wearable"
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.ACCESS_BIOMETRIC"
+      }
+    ],
+  }
+}
